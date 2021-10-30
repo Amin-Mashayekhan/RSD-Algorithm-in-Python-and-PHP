@@ -10,7 +10,9 @@ As a suggestion, use Visual Studio Code IDE to view and define agents variables 
 Studio Code IDE extensions called ((Code Runner)) to view algorithm output.
 This project was created and developed by Mohammad Amin Mashayekhan. The coding of the project was done with the help of assistant professor Mehdi Feizi, stackoverflow.com, php2python.com and etc.
 The following images are a sample of an input and its output in this algorithm code.\
-  <img src="PHP-input-&-output-sample.JPG" width="350" height="560" title="hover text">
+In python:\
   <img src="Python-input-&-output-sample.jpg" width="350" height="560" alt="accessibility text">\
+In PHP:\  
+  <img src="PHP-input-&-output-sample.JPG" width="350" height="560" title="hover text">
 Thank you for visiting.
 
