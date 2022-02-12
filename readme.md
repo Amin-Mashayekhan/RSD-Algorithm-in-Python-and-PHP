@@ -9,7 +9,7 @@ A dicrionary in Python version (or array for PHP version) : agents index(key) =>
 As a suggestion, use Visual Studio Code IDE to view and define agents variables easier and use one of Visual
 Studio Code IDE extensions called "Code Runner" to view algorithm output.
 This project was created and developed by Mohammad Amin Mashayekhan. The coding of the project was done with the help of assistant professor Mehdi Feizi, stackoverflow.com, php2python.com and etc.
-The following images are a sample of an input (as a array variable named agents) and its output in this algorithm code.\
+The following images are a sample of an input (variable named agents) and its output in this algorithm code.\
 In python: \
   <img src="Python-input-&-output-sample.jpg" width="350" height="560" alt="accessibility text"> \
 In PHP:  
