@@ -9,4 +9,11 @@
 اکستنشن هاي همين IDE به اسم ((Code Runner)) استفاده کنید.
 این پروژه توسط محمد امین مشایخان ایجاد و توسعه داده شده است و کد های این پروژه با راهنمایی های استادیار جناب آقای مهدی فیضی،
 stackoverflowl.com , php2python و ... نوشده شده است.
+عکس های زیر، نمونه ای از ورودی و خروجی این الگوریتم می باشد \
+در نسخه ی Python: \
+  <img src="Python-input-&-output-sample.jpg" width="350" height="560" alt="accessibility text"> \
+در نسخه ی PHP:  
+<img src="PHP-input-&-output-sample.JPG" width="350" height="560" title="hover text"> \
+
+آدرس ایمیل من: amin.mashayekhan@gmail.com
 از توجه شما متشکرم.
