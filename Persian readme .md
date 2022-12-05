@@ -13,4 +13,4 @@
 در نسخه ی PHP:  
 <img src="PHP-input-&-output-sample.JPG" width="350" height="560" title="hover text">\
 آدرس ایمیل من: amin.mashayekhan@gmail.com\
-از توجه شما متشکرم.
+
