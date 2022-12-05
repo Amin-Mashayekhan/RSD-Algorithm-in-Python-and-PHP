@@ -12,5 +12,5 @@
   <img src="Python-input-&-output-sample.jpg" width="350" height="560" alt="accessibility text">\
 در نسخه ی PHP:  
 <img src="PHP-input-&-output-sample.JPG" width="350" height="560" title="hover text">\
-آدرس ایمیل من: amin.mashayekhan@gmail.com\
+آدرس ایمیل من: amin.mashayekhan@gmail.com
 
