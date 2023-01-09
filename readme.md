@@ -1,4 +1,4 @@
-Hi, This project executes the RSD (Random Serial Dictatorship) algorithm (mechanism).\
+Hi, This project executes the <a href="https://pure.royalholloway.ac.uk/ws/portalfiles/portal/31346708/RsdMorRev5.pdf">RSD (Random Serial Dictatorship) algorithm</a> (mechanism).\
 The project is coded in two versions, including the PHP version and the Python version.\
 At the top of the code page, you can specify the agents variable (which includes the agent index as the array's key and the preferences of this agent as the value of this key. at the top of the code, for example, some of these variables created as a comment).\
 notice: the number of agents must be more than 1 and the number of agent's preferences (as non-duplicate goods in each agent's preferences) must be equal to the number of agents. \
