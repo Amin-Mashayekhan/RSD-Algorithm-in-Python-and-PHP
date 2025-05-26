@@ -68,7 +68,7 @@ PHP Version: <img src="PHP-input-&-output-sample.JPG" width="350" height="560" a
 ### 👨‍💻 Credits
 
 This project was created and developed by **Mohammad Amin Mashayekhan**.
-Special thanks to:
+Guidance and assistance resources::
 
 * Assistant Professor **Mehdi Feizi**
 * [Stack Overflow](https://stackoverflow.com)
